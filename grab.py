@@ -3,6 +3,7 @@ import cv2
 from matplotlib import pyplot as plt
 from grabcut import GrabCut
 
+
 def minx(x1,x2,y1,y2):
 	if x1<x2:
 		return x1,y1

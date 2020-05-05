@@ -4,6 +4,7 @@ from sklearn import mixture
 from math import sqrt
 import igraph
 
+
 def GrabCut(filename,T,iter):
     #read image data
     im = Image.open(filename)

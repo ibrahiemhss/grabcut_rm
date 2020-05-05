@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from PIL import Image
 
+
 idOPEN = wx.ID_OPEN
 idCLEAR = wx.ID_CLEAR
 idEXIT = wx.ID_EXIT
